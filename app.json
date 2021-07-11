@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "QrCreator",
+    "slug": "QrCreator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "QrCreator"
+}
