@@ -2,7 +2,7 @@
 
 This is a simple QR Code Generator in React Native. The code is fully open-sourced.
 
-**You absolutly need to have node.js to run the code**
+**You absolutly need to have node.js and React Native installed to run the code**
 
 
 # Running 
