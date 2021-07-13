@@ -19,5 +19,6 @@ To build this app you need to run this command on your prompt. You need to chang
 
 `npm build device`
 
+The terminal will ask you to follow a few instuctions and from there it will compile 😁
 
 Have fun !!
