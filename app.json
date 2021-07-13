@@ -1,11 +1,23 @@
 {
+  "name": "QR Creator",
+  "displayName": "QR Creator",
   "expo": {
-    "name": "QrCreator",
-    "slug": "QrCreator",
+    "name": "QR Creator",
+    "slug": "expo-template-bare",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "QrCreator"
+    "entryPoint": "./App.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.melmasset.qrcreator"
+    },
+    "ios": {
+      "bundleIdentifier": "com.melmasset.qrcreator"
+    }
+  }
 }
