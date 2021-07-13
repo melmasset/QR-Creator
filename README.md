@@ -13,5 +13,11 @@ To run the app you need to run this command just by changing *device* by the dev
 
 From there just follow the instructions provided by your terminal and everything will be ok 👌 
 
+# Building
+
+To build this app you need to run this command on your prompt. You need to change the *device* in the command by **(android, web)**
+
+`npm build device`
+
 
 Have fun !!
