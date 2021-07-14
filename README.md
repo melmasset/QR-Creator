@@ -15,7 +15,7 @@ From there just follow the instructions provided by your terminal and everything
 
 # Building
 
-To build this app you need to run this command on your prompt. You need to change the *device* in the command by **(android, web)**
+To build this app you need to run this command on your prompt. You need to change the *device* in the command by **(android, ios)**
 
 `npm build device`
 
